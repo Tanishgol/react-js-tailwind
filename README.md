@@ -7,7 +7,7 @@ A starter template for creating React Apps, styled with Tailwind CSS.
 Clone locally with:
 
 ```
-git clone https://github.com/yourusername/projectname
+git clone [https://github.com/yourusername/projectname](https://github.com/Tanishgol/react-js-tailwind).git
 ```
 
 In your terminal, run:
