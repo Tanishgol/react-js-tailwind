@@ -10,7 +10,11 @@ Clone locally with:
 git clone https://github.com/Tanishgol/react-js-tailwind.git
 ```
 
-In your terminal, run:
+In your terminal:
+
+```
+cd react-js-tailwind
+```
 
 ```
 npm install
